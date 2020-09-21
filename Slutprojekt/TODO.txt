@@ -1,0 +1,22 @@
+
+white space
+	Öka min-height
+
+Font-family
+	installera
+
+alt-text till img
+
+.Yellow p ska ligga i en div med max-width
+
+"take me up!"
+
+Contacts-knapp/länk
+
+Knappdesign
+
+pin på kartan
+
+Storbilden
+
+Nummer
